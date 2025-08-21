@@ -52,7 +52,7 @@ PORT=3000
 
 Ejemplo real:
 
-MONGO_URI=mongodb+srv://adminapp:isaac123%2A@cluster0.tsdqsvt.mongodb.net
+MONGO_URI=mongodb+srv://adminapp:sebas123%2A@cluster0.tsdqsvt.mongodb.net
 DB_NAME=golden_shadows
 PORT=3000
 
